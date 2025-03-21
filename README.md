@@ -34,3 +34,25 @@
 
 💡 **Open to new opportunities and collaborations!**
 
+
+![Oleksii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksii-zelenko&show_icons=true&theme=dark&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-zelenko&layout=compact&theme=dark)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleksii-zelenko&theme=dark)
+
+
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+</p>
+
+
+![CodersRank Score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oleksii-zelenko)
+
+
