@@ -21,7 +21,7 @@
 - **Freelance** (2000-2018) — Built websites with Joomla, WordPress, and custom development
 
 ## 🌟 My Projects:
-- 🔥 **[Business App](https://business-vue3.web.app/)** — Showcasing Vue3, Firebase, and API integrations
+- 🔥 **[My Apps](https://business-vue3.web.app/)** — Showcasing Vue3, Firebase, and API integrations
 - 💻 **[My Skills Page](https://alexeyzelenko.github.io/my-skills)** — Examples of my work and technologies
 
 ## 📫 Contact Me:
