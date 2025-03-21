@@ -1,16 +1,35 @@
-## Hi there 👋
+# Oleksii Zelenko — Frontend Developer
 
-<!--
-**AlexeyZelenko/AlexeyZelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://business-vue3.web.app/banner.jpg)
 
-Here are some ideas to get you started:
+👋 Hi! I'm **Oleksii Zelenko**, an experienced Frontend Developer with over 4 years of web development expertise. I specialize in **Vue.js, JavaScript (ES6+), SCSS, Webpack**, and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Skills
+
+### 📌 Core Stack:
+- **Frontend:** JavaScript (ES6+), Vue.js (2-3), Nuxt.js, React, Angular
+- **Styling:** CSS, SCSS, Tailwind, Bootstrap, Vuetify, Materialize
+- **Build Tools:** Vite, Webpack, Gulp
+- **Testing:** Playwright, Vitest, BrowserStack
+- **CI/CD:** GitHub Actions, Bitbucket Pipelines, Jenkins
+- **Optimization:** Google Analytics, SEO, lazy loading, WebP, SVG
+- **Backend:** PHP, Node.js, API integrations
+- **Design:** Figma, Photoshop, CorelDRAW
+
+### 🛠️ Work Experience:
+- **[ZAIA](https://business-vue3.web.app/)** (2021-2024) — Developed SPAs with Vue.js, automated testing, SEO optimization
+- **INFINITE** (2018-2021) — Server-side rendering with Nuxt.js, TypeScript, PWA, Chrome Extensions
+- **Freelance** (2000-2018) — Built websites with Joomla, WordPress, and custom development
+
+## 🌟 My Projects:
+- 🔥 **[Business Vue3 App](https://business-vue3.web.app/)** — Showcasing Vue3, Firebase, and API integrations
+- 💻 **[My Skills Page](https://alexeyzelenko.github.io/my-skills)** — Examples of my work and technologies
+
+## 📫 Contact Me:
+- Email: pro.infinite.box@gmail.com
+- LinkedIn: [linkedin.com/in/oleksii-zelenko](https://linkedin.com/in/oleksii-zelenko)
+- Stack Overflow: [Oleksii Zelenko](https://stackoverflow.com/users/14241212/oleksii-zelenko)
+- CodeWars: [@oleksii-zelenko](https://www.codewars.com/users/oleksii-zelenko)
+
+💡 **Open to new opportunities and collaborations!**
+
