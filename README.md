@@ -1,13 +1,12 @@
 # Oleksii Zelenko — Frontend Developer
 
-![Profile Banner](https://business-vue3.web.app/banner.jpg)
 
 👋 Hi! I'm **Oleksii Zelenko**, an experienced Frontend Developer with over 4 years of web development expertise. I specialize in **Vue.js, JavaScript (ES6+), SCSS, Webpack**, and modern development tools.
 
 ## 🚀 Technologies & Skills
 
 ### 📌 Core Stack:
-- **Frontend:** JavaScript (ES6+), Vue.js (2-3), Nuxt.js, React, Angular
+- **Frontend:** JavaScript (ES6+), Vue.js (2-3), Nuxt.js
 - **Styling:** CSS, SCSS, Tailwind, Bootstrap, Vuetify, Materialize
 - **Build Tools:** Vite, Webpack, Gulp
 - **Testing:** Playwright, Vitest, BrowserStack
