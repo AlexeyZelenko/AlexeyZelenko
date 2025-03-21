@@ -35,13 +35,13 @@
 💡 **Open to new opportunities and collaborations!**
 
 
-![Oleksii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksii-zelenko&show_icons=true&theme=dark&count_private=true)
+![Oleksii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyZelenko&show_icons=true&theme=dark&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-zelenko&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyZelenko&layout=compact&theme=dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleksii-zelenko&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexeyZelenko&theme=dark)
 
 
 ### 🛠️ Languages and Tools:
