@@ -25,7 +25,9 @@
 - 💻 **[My Skills Page](https://alexeyzelenko.github.io/my-skills)** — Examples of my work and technologies
 
 ## 📫 Contact Me:
+- Email: zelenkooleksii75@gmail.com
 - Email: pro.infinite.box@gmail.com
+- Telegram: @creator_oleksii
 - LinkedIn: [linkedin.com/in/oleksii-zelenko](https://linkedin.com/in/oleksii-zelenko)
 - Stack Overflow: [Oleksii Zelenko](https://stackoverflow.com/users/14241212/oleksii-zelenko)
 - CodeWars: [@oleksii-zelenko](https://www.codewars.com/users/oleksii-zelenko)
