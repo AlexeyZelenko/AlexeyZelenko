@@ -53,6 +53,6 @@
 </p>
 
 
-![CodersRank Score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oleksii-zelenko)
+![CodersRank Score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexeyZelenko)
 
 
