@@ -1,7 +1,7 @@
-# Alex — Frontend Developer
+# Alex — FullStack Developer
 
 
-👋 Hi! I'm **Oleksii Zelenko**, an experienced Frontend Developer with over 4 years of web development expertise. I specialize in **Vue.js, JavaScript (ES6+), SCSS, Webpack**, and modern development tools.
+👋 Hi! I'm **Alex**, an experienced Frontend Developer with over 4 years of web development expertise. I specialize in **Vue.js, JavaScript (ES6+), SCSS, Webpack**, and modern development tools.
 
 ## 🚀 Technologies & Skills
 
