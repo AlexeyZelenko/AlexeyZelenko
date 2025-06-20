@@ -1,4 +1,4 @@
-# Oleksii Zelenko — Frontend Developer
+# Alex — Frontend Developer
 
 
 👋 Hi! I'm **Oleksii Zelenko**, an experienced Frontend Developer with over 4 years of web development expertise. I specialize in **Vue.js, JavaScript (ES6+), SCSS, Webpack**, and modern development tools.
